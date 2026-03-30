@@ -1,0 +1,44 @@
+body {
+  background-color: #FFF8F0;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: #C0392B;
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+
+button {
+  background-color: #C0392B;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 20px;
+  margin: 5px;
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+button:hover {
+  background-color: #A93226;
+}
+
+img {
+  width: 300px;
+  border-radius: 12px;
+  margin: 15px 0;
+}
+
+.ban-list button {
+  background-color: #888;
+}
+
+.ban-list button:hover {
+  background-color: #666;
+}
+footer {
+  font-size: 0.9rem;
+  color:#666;
+}
